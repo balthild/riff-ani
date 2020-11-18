@@ -1,6 +1,7 @@
 [package]
 name = "riff-ani"
 description = "Generating the animated mouse cursor files (.ani) for Windows."
+license = "MPL-2.0"
 version = "0.1.0"
 authors = ["Balthild <ibalthild@gmail.com>"]
 edition = "2018"
